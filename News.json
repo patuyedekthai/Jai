@@ -1,13 +1,93 @@
 {
 
+
+
    "files": [    
+
+
+
 
 
 {
 
+
+
          "name": "TH-01-DTAC",
 
+
+
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-READY-DTAC1.ovpn"
+
+
+
+      }
+
+
+
+,
+
+
+
+{
+
+
+
+         "name": "TH-02-DTAC",
+
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-READY-DTAC2.ovpn"
+
+
+
+      }
+
+,
+
+
+
+{
+
+
+
+         "name": "TH-01-TRUE",
+
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-TRUE-READYIDC3.ovpn"
+
+
+
+      }
+
+
+
+,
+
+
+
+{
+
+
+
+         "name": "TH-02-TRUE",
+
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-TRUE-READYIDC3.ovpn"
+
+
+
+      }
+
+
+,
+
+{
+
+         "name": "TH-VIP-DTAC-SERVER",
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.DTAC.ovpn"
 
       }
 
@@ -15,27 +95,43 @@
 
 {
 
-         "name": "TH-02-DTAC",
+         "name": "TH-VIP-TRUE-SERVER",
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-READY-DTAC2.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.TRUE.ovpn"
 
       }
 
 
    ],
 
+
+
 "message":"
+
+
+
 
 
 📕True FREE NO pro
 
+
+
 📘Dtac FREE NO pro
+
+
+
 
 
 \n\nเวอร์ชั่นไฟล์:1",
 
+
+
 "title":"New Update File" ,
 
+
+
    "version":1
+
+
 
 } 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":1 }
