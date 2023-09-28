@@ -7,7 +7,7 @@
 
          "name": "TH-01-DTAC",
 
-         "url": "https://github.com/patuyedekthai/DekThai/blob/main/DTAC-TH-NOPRO.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-READY-DTAC1.ovpn"
 
       }
 
@@ -17,7 +17,7 @@
 
          "name": "TH-02-DTAC",
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/DekThai/main/TRUE-TH-NOPRO.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-READY-DTAC2.ovpn"
 
       }
 
@@ -25,7 +25,7 @@
 
          "name": "TH-01-TRUE",
 
-         "url": "https://github.com/patuyedekthai/DekThai/blob/main/DTAC-TH-NOPRO.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-TRUE-READYIDC3.ovpn"
 
       }
 
@@ -35,7 +35,7 @@
 
          "name": "TH-02-TRUE",
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/DekThai/main/TRUE-TH-NOPRO.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-TRUE-READYIDC3.ovpn"
 
       }
 
