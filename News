@@ -15,11 +15,30 @@
 
 {
 
-         "name": "TH-01-TRUE",
+         "name": "TH-02-DTAC",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/DekThai/main/TRUE-TH-NOPRO.ovpn"
 
       }
+
+{
+
+         "name": "TH-01-TRUE",
+
+         "url": "https://github.com/patuyedekthai/DekThai/blob/main/DTAC-TH-NOPRO.ovpn"
+
+      }
+
+,
+
+{
+
+         "name": "TH-02-TRUE",
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/DekThai/main/TRUE-TH-NOPRO.ovpn"
+
+      }
+
 
    ],
 
