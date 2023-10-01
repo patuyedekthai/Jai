@@ -85,7 +85,7 @@
 
 {
 
-         "name": "TH-VIP-DTAC-PREMIUM",
+         "name": "5.TH-VIP-DTAC-PREMIUM",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.DTAC.ovpn"
 
@@ -95,7 +95,7 @@
 
 {
 
-         "name": "TH-VIP-TRUE-PREMIUM",
+         "name": "6.TH-VIP-TRUE-PREMIUM",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.TRUE.ovpn"
 
@@ -105,7 +105,7 @@
 
 {
 
-         "name": "TH-VIP-DTAC-SERVER",
+         "name": "7.TH-VIP-DTAC-SERVER",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP_SERVER-TRUE.ovpn"
 
@@ -115,7 +115,7 @@
 
 {
 
-         "name": "TH-VIP-TRUE-SERVER-",
+         "name": "8.TH-VIP-TRUE-SERVER-",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP_SERVER-TRUE.ovpn"
 
