@@ -12,7 +12,7 @@
 
 
 
-         "name": "1.TH-DTAC-FREE",
+         "name": "1.TH-DTAC-RCADY-FREE",
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-         "name": "2.TH-DTAC-FREE",
+         "name": "2.TH-DTAC-RCADY-FREE",
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-         "name": "3.TH-TRUE-FREE",
+         "name": "3.TH-TRUE-RCADY-FREE",
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-         "name": "4.TH-TRUE-FREE",
+         "name": "4.TH-TRUE-RCADY-FREE",
 
 
 
@@ -85,7 +85,7 @@
 
 {
 
-         "name": "5.TH-VIP-DTAC-PREMIUM",
+         "name": "5.VIP-DTAC-PREMIUM",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.DTAC.ovpn"
 
@@ -95,7 +95,7 @@
 
 {
 
-         "name": "6.TH-VIP-TRUE-PREMIUM",
+         "name": "6.VIP-TRUE-PREMIUM",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.TRUE.ovpn"
 
@@ -105,7 +105,7 @@
 
 {
 
-         "name": "7.TH-VIP-DTAC-SERVER",
+         "name": "7.VIP-DTAC-SERVER",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP_SERVER-TRUE.ovpn"
 
@@ -115,7 +115,7 @@
 
 {
 
-         "name": "8.TH-VIP-TRUE-SERVER-",
+         "name": "8.VIP-TRUE-SERVER",
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP_SERVER-TRUE.ovpn"
 
@@ -127,21 +127,21 @@
 
 
 "message":"
-      🌟VIP 30บาท ต่อเดือน 
- สามารถติดต่อสอบถามแอดมินใด้ที่ เฟสบุ๊ค ไลน์ 
-   👨‍💻Facebook: Tui Piyathat
-      👨‍💻Line: tuye_no.1
+🌟VIP 30บาท ต่อเดือน  ติดต่อแอดได้เลย
+✅ในตัวแอปมีเชิฟเวอร์ฟรีให้ใช่งาน
+✅ ใช้งานได้ทั่วไปแต่ไม่เหมาะกับเกม
+✅ใช้เวลา 40 ชั่วโมง ไม่ต้องกดเพิ่มเวลา
 
-       DTAC
+           DTAC
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-       TRUE
+           TRUE
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
-       AIS
+            AIS
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-\n\nเวอร์ชั่นไฟล์:5",
+\n\nเวอร์ชั่นไฟล์:6",
 
 "title":"New Update File" ,
 
-   "version":5
+   "version":6
 
-} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":5 }
+} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":6 }
