@@ -12,49 +12,11 @@
 
 
 
-         "name": "TH-01-DTAC-FREE",
+         "name": "1.TH-DTAC-RCADY",
 
 
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-READY-DTAC1.ovpn"
-
-
-
-      }
-
-
-
-,
-
-
-
-{
-
-
-
-         "name": "TH-02-DTAC-FREE",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-READY-DTAC2.ovpn"
-
-
-
-      }
-
-,
-
-
-
-{
-
-
-
-         "name": "TH-01-TRUE-FREE",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-TRUE-READYIDC3.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-DTAC-RCADY.ovpn"
 
 
 
@@ -70,11 +32,49 @@
 
 
 
-         "name": "TH-02-TRUE-FREE",
+         "name": "2.TH-DTAC-RCADY",
 
 
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-TRUE-READYIDC3.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/2.TH-DTAC-RCADY.ovpn"
+
+
+
+      }
+
+,
+
+
+
+{
+
+
+
+         "name": "3.TH-TRUE-RCADY",
+
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/2.TH-DTAC-RCADY.ovpn"
+
+
+
+      }
+
+
+
+,
+
+
+
+{
+
+
+
+         "name": "4.TH-TRUE-RCADY",
+
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/4.TH-TRUE-RCADY.ovpn"
 
 
 
@@ -107,7 +107,7 @@
 
          "name": "TH-VIP-DTAC-SERVER",
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP-SERVER-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP_SERVER-TRUE.ovpn"
 
       }
 
@@ -134,10 +134,10 @@
 📕True FREE NO pro
 📘Dtac FREE NO pro
 
-\n\nเวอร์ชั่นไฟล์:2",
+\n\nเวอร์ชั่นไฟล์:3",
 
 "title":"New Update File" ,
 
-   "version":2
+   "version":3
 
-} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":2 }
+} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":3 }
