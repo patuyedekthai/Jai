@@ -2,13 +2,21 @@
 
 
 
+
+
+
+
    "files": [    
 
 
 
 
 
+
+
 {
+
+
 
 
 
@@ -20,24 +28,45 @@
 
 
 
+
+
+
+
       }
+
+
 
 ,
 
+
+
 {
+
+
 
          "name": "1.TH-DTAC-FREE",
 
+
+
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-DTAC-RCADY.ovpn"
 
+
+
       }
+
 
 
 ,
 
 
 
+
+
+
+
 {
+
+
 
 
 
@@ -49,13 +78,25 @@
 
 
 
+
+
+
+
       }
+
+
 
 ,
 
 
 
+
+
+
+
 {
+
+
 
 
 
@@ -67,7 +108,13 @@
 
 
 
+
+
+
+
       }
+
+
 
 
 
@@ -75,7 +122,13 @@
 
 
 
+
+
+
+
 {
+
+
 
 
 
@@ -87,68 +140,184 @@
 
 
 
+
+
+
+
       }
+
+
+
 
 
 ,
 
+
+
+
+
 {
 
-         "name": "5.TH-VIP-DTAC-PREMIUM",
+
+
+         "name": "5.TH-DTAC-GAME",
+
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/5.TH-DTAC-Game.ovpn"
+
+
+
+      }
+
+
+
+,
+
+
+
+
+
+{
+
+
+
+         "name": "6.TH-TRUE-GAME",
+
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/5.TH-DTAC-Game.ovpn"
+
+
+
+      }
+
+
+
+
+
+,
+
+
+
+
+
+{
+
+
+
+         "name": "7.TH-VIP-DTAC-PREMIUM",
+
+
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.DTAC.ovpn"
 
+
+
       }
+
+
 
 ,
 
+
+
 {
 
-         "name": "6.TH-VIP-TRUE-PREMIUM",
+
+
+         "name": "8.TH-VIP-TRUE-PREMIUM",
+
+
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.TRUE.ovpn"
 
+
+
       }
+
+
 
 ,
 
+
+
 {
 
-         "name": "7.TH-VIP-DTAC-SERVER",
+
+
+         "name": "9..TH-VIP-DTAC-SERVER",
+
+
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP_SERVER-TRUE.ovpn"
 
+
+
       }
+
+
 
 ,
 
+
+
 {
 
-         "name": "8.TH-VIP-TRUE-SERVER-",
+
+
+         "name": "9.TH-VIP-TRUE-SERVER",
+
+
 
          "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/VIP_SERVER-TRUE.ovpn"
 
+
+
       }
+
+
+
+
 
 
 
    ],
 
 
+
+
+
 "message":"
-      🌟VIP 30บาท ต่อเดือน 
-👨‍💻สามารถติดต่อสอบถามแอดมิน
+
+        🌟VIP 30บาท ต่อเดือน 
+
+ 👨‍💻 สามารถติดต่อสอบถามแอดมินใด้ที่
+
+ 
 
        DTAC
+
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
+
        TRUE
+
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
        AIS
+
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-\n\nเวอร์ชั่นไฟล์:11",
+
+\n\nเวอร์ชั่นไฟล์:12",
+
+
 
 "title":"New Update File" ,
 
-   "version":11
 
-} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":11 }
+
+   "version":12
+
+
+
+} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":12 }
