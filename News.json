@@ -18,17 +18,11 @@
 
 
 
-
-
-         "name": "0.TH-AIS-ใช้งานทั่วไป",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-AIS-READYIDC1.ovpn"
+         "name": "TH-DTAC-1ใช้งานทั่วไป-ฟรี",
 
 
 
-
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-DTAC-RCADY-103.ovpn"
 
 
 
@@ -39,21 +33,23 @@
 ,
 
 
-
 {
 
 
 
-         "name": "1.TH-DTAC-ใช้งานทั่วไป",
+
+
+         "name": "TH-DTAC-2ใช้งานทั่วไป-ฟรี",
 
 
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-DTAC-RCADY.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/FREE-125.ovpn"
+
+
 
 
 
       }
-
 
 
 ,
@@ -64,17 +60,10 @@
 
 
 
-{
 
 
 
-
-
-         "name": "2.TH-DTAC-ใช้งานทั่วไป",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/2.TH-DTAC-RCADY.ovpn"
+         "name": "TH-DTAC-3ใช้งานทั่วไป-ฟรี",
 
 
 
@@ -82,29 +71,7 @@
 
 
 
-      }
-
-
-
-,
-
-
-
-
-
-
-
-{
-
-
-
-
-
-         "name": "3.TH-TRUE-ใช้งานทั่วไป",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/2.TH-DTAC-RCADY.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/FREE-203.ovpn"
 
 
 
@@ -118,28 +85,18 @@
 
 
 
+
+
 ,
-
-
-
-
-
 
 
 {
 
+         "name": "TH-TRUE-1ใช้งานทั่วไป-ฟรี",
 
 
 
-
-         "name": "4.TH-TRUE-ใช้งานทั่วไป",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/4.TH-TRUE-RCADY.ovpn"
-
-
-
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/1.TH-DTAC-RCADY-103.ovpn"
 
 
 
@@ -148,23 +105,22 @@
 
 
 
-
-
 ,
-
-
-
 
 
 {
 
 
 
-         "name": "5.TH-DTAC-สำหรับเกมส์",
+
+
+         "name": "TH-TRUE-2ใช้งานทั่วไป-ฟรี",
 
 
 
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/5.TH-DTAC-Game.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/FREE-125.ovpn"
+
+
 
 
 
@@ -178,43 +134,33 @@
 
 
 
-{
-
-
-
-         "name": "6.TH-TRUE-สำหรับเกมส์",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/5.TH-DTAC-Game.ovpn"
-
-
-
-      }
 
 
 
 
 
-,
+
+         "name": "TH-TRUE-3ใช้งานทั่วไป",
 
 
 
 
 
-{
+
+
+         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/FREE-203.ovpn"
 
 
 
-         "name": "7.VIP-DTAC-พรีเมี่ยม",
 
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.DTAC.ovpn"
 
 
 
       }
+
+
+
+
 
 
 
@@ -226,27 +172,7 @@
 
 
 
-         "name": "8.VIP-TRUE-พรีเมี่ยม",
-
-
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/Jai/main/SERVER_PREMIUM.TRUE.ovpn"
-
-
-
-      }
-
-
-
-,
-
-
-
-{
-
-
-
-         "name": "9..-VIP-DTAC-สำหรับเช่าเท่านั้น",
+         "name": "VIP-DTAC-สำหรับเช่าเท่านั้น",
 
 
 
@@ -266,7 +192,7 @@
 
 
 
-         "name": "9.VIP-TRUE-สำหรับเช่าเท่านั้น",
+         "name": "VIP-TRUE-สำหรับเช่าเท่านั้น",
 
 
 
@@ -301,7 +227,7 @@ https://lin.ee/kt4LOT3
        AIS
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
-\n\nเวอร์ชั่นไฟล์:12",
+\n\nเวอร์ชั่นไฟล์:13",
 "title":"New Update File" ,
-   "version":12
-} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":12 }
+   "version":13
+} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":13 }
